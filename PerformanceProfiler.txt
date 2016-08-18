@@ -1,0 +1,9 @@
+NO1:desc:ÍøÂç
+Filename:d:\documents\visual studio 2013\projects\performanceprofiling\performanceprofiling\performanceprofiling.cpp,Function:run, line:8
+CostTime:18.70,CallCount:6
+NO2:desc:Êý¾Ý¿â
+Filename:d:\documents\visual studio 2013\projects\performanceprofiling\performanceprofiling\performanceprofiling.cpp,Function:run, line:11
+CostTime:24.72,CallCount:6
+NO3:desc:LINUX
+Filename:d:\documents\visual studio 2013\projects\performanceprofiling\performanceprofiling\performanceprofiling.cpp,Function:run, line:14
+CostTime:30.72,CallCount:6
